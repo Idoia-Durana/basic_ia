@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Leer la imagen
-Ruta = r"C:\Users\idurana\Desktop\Python\Aprende_col_alf\Ruben_datos\Foto1.jpg"
+Ruta = r"C:\Users\idurana\Desktop\Python\Foto1.jpg"
 imagen = cv2.imread(Ruta)
 
 
