@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-url =r"C:\\Users\\idurana\\Desktop\\Python\\Aprende_col_alf\\Ruben_datos\\raw.html"
+url =r"C:\\Users\\idurana\\Desktop\\Python\\raw.html"
                
 # Analizar sintácticamente el texto fuente HTML guardado en raw_html
 html = BeautifulSoup(url, 'html.parser')
