@@ -8,8 +8,8 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 * Librerías necesarias:
 -  NumPy
 -  Matplotlib
-*  Registro e Inicio de Sesión:
-     - Visita la página de registro para crear una cuenta de usuario.
+*  Librerías necesarias:
+     - NumPy
 Usa tus credenciales para iniciar sesión.
 
 ## Objetivo
