@@ -10,6 +10,7 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 -  Matplotlib
 *  Librerías necesarias:
      - NumPy
+     - Matplotlib
 Usa tus credenciales para iniciar sesión.
 
 ## Objetivo
