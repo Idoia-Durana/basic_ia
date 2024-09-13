@@ -8,7 +8,9 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 * Librerías necesarias:
 -  NumPy
 -  Matplotlib
-
+*  Registro e Inicio de Sesión:
+     - Visita la página de registro para crear una cuenta de usuario.
+Usa tus credenciales para iniciar sesión.
 
 ## Objetivo
 El objetivo principal de estos ejercicios es ofrecer una introducción práctica y sencilla al reconocimiento de figuras mediante IA, proporcionando una base sólida para proyectos más complejos en el futuro.
