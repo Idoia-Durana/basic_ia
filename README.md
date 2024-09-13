@@ -8,6 +8,7 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 *  Librerías necesarias:
      - NumPy
      - Matplotlib
+     - BeautifulSoup
 
 
 ## Objetivo
