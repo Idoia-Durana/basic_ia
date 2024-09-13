@@ -5,13 +5,10 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 
 ## Requisitos
 * Python 3.x
-* Librerías necesarias:
--  NumPy
--  Matplotlib
 *  Librerías necesarias:
      - NumPy
      - Matplotlib
-Usa tus credenciales para iniciar sesión.
+
 
 ## Objetivo
 El objetivo principal de estos ejercicios es ofrecer una introducción práctica y sencilla al reconocimiento de figuras mediante IA, proporcionando una base sólida para proyectos más complejos en el futuro.
