@@ -7,7 +7,6 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 * Python 3.9
 *  Librerías necesarias:
      - NumPy
-     - Matplotlib
      - BeautifulSoup
      - cv2
 
