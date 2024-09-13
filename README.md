@@ -5,7 +5,7 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
 
 ## Requisitos
 * Python 3.x
-# Librerías necesarias:
+* Librerías necesarias:
 -  NumPy
 -  Matplotlib
 
