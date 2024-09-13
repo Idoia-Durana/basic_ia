@@ -1,6 +1,6 @@
 import cv2
 
-ruta = r"C:\Users\idurana\Desktop\Python\Aprende_col_alf\Ruben_datos\Foto1.jpg"
+ruta = r"C:\Users\idurana\Desktop\Python\Foto1.jpg"
 imagen = cv2.imread(ruta)
 grises = cv2.cvtColor(imagen, cv2.COLOR_BGR2GRAY)
 _,th =  cv2.threshold(grises, 240, 255, cv2.THRESH_BINARY_INV)
