@@ -9,6 +9,7 @@ Este repositorio contiene una serie de ejercicios introductorios enfocados en el
      - NumPy
      - Matplotlib
      - BeautifulSoup
+     - cv2
 
 
 ## Objetivo
